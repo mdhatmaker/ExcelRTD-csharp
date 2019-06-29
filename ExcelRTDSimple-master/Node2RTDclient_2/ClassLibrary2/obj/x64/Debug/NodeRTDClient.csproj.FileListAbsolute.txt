@@ -1,0 +1,4 @@
+C:\Projects\Test Projects\ExcelRTDSimple-master\Node2RTDclient_2\ClassLibrary2\bin\x64\Debug\AlignmentSystemsRTD.dll
+C:\Projects\Test Projects\ExcelRTDSimple-master\Node2RTDclient_2\ClassLibrary2\bin\x64\Debug\AlignmentSystemsRTD.pdb
+C:\Projects\Test Projects\ExcelRTDSimple-master\Node2RTDclient_2\ClassLibrary2\obj\x64\Debug\AlignmentSystemsRTD.dll
+C:\Projects\Test Projects\ExcelRTDSimple-master\Node2RTDclient_2\ClassLibrary2\obj\x64\Debug\AlignmentSystemsRTD.pdb

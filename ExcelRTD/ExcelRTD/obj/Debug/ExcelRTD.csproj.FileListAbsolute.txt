@@ -1,0 +1,6 @@
+C:\Projects\Test Projects\ExcelRTD\ExcelRTD\bin\Debug\ExcelRTD.dll
+C:\Projects\Test Projects\ExcelRTD\ExcelRTD\bin\Debug\ExcelRTD.pdb
+C:\Projects\Test Projects\ExcelRTD\ExcelRTD\bin\Debug\ExcelRTD.tlb
+C:\Projects\Test Projects\ExcelRTD\ExcelRTD\obj\Debug\ExcelRTD.dll
+C:\Projects\Test Projects\ExcelRTD\ExcelRTD\obj\Debug\ExcelRTD.pdb
+C:\Projects\Test Projects\ExcelRTD\ExcelRTD\obj\Debug\ExcelRTD.csprojResolveAssemblyReference.cache

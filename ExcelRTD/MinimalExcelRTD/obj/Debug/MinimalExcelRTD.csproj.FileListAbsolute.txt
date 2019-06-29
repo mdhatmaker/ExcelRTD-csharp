@@ -1,0 +1,5 @@
+C:\Projects\Test Projects\ExcelRTD\MinimalExcelRTD\obj\Debug\MinimalExcelRTD.csproj.ResolveComReference.cache
+C:\Projects\Test Projects\ExcelRTD\MinimalExcelRTD\bin\Debug\MinimalExcelRTD.dll
+C:\Projects\Test Projects\ExcelRTD\MinimalExcelRTD\bin\Debug\MinimalExcelRTD.pdb
+C:\Projects\Test Projects\ExcelRTD\MinimalExcelRTD\obj\Debug\MinimalExcelRTD.dll
+C:\Projects\Test Projects\ExcelRTD\MinimalExcelRTD\obj\Debug\MinimalExcelRTD.pdb
